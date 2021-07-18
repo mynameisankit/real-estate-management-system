@@ -1,6 +1,10 @@
 ## Overview ##
 This is a SQL based real estate management system.
 
+## SQL Database Design ##
+- **[ER Diagram](./ER-Diagram.pdf)**
+- **[Relational Design](./Relational-Design.pdf)**
+
 ## Routes  ##
 Navigate to the following routes to preview the pages directly (I am not preventing page access as per auth for now) :-
 <ul>
@@ -32,9 +36,6 @@ Navigate to the following routes to preview the pages directly (I am not prevent
 - Node.js
 - Material-UI
 - Axios (Will be changed to SWR library for data fetching)
-
-- Desktop App
-  - Electron.js (In Development)
 
 ## Install Dependencies ##
 ```bash
